@@ -11,7 +11,9 @@ In this competition you are required to predict a list of 5 tracks for a set of 
 
 **Team name**: Juventus & Peroni
 
-**Note** Datasets not included in this repo.
+**Notes** 
+* Datasets not included in this repo.
+* ```similarity.py``` code partially taken from repository https://github.com/MaurizioFD/RecSys_Course_2017
 
 ### Algorithms implemented ###
 * `v0.1` - **Top popular**
